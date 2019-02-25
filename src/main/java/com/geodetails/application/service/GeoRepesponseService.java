@@ -29,7 +29,7 @@ public class GeoRepesponseService {
 	}
 
 	public String getCityDetails() {
-		
+
 		return "city11";
 	}
 }

@@ -10,6 +10,7 @@ public class GeodetailsApplication {
 		SpringApplication.run(GeodetailsApplication.class, args);
 		int b=0;
 		int c=1;
+		int d=2
 	}
 
 }

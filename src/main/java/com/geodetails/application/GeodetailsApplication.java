@@ -9,6 +9,7 @@ public class GeodetailsApplication {
 		int a=1;//main master updated
 		SpringApplication.run(GeodetailsApplication.class, args);
 		int b=0;
+		int c=1;
 	}
 
 }

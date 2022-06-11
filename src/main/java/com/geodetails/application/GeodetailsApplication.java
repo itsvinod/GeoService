@@ -16,6 +16,7 @@ public class GeodetailsApplication {
 			int g=5
 			int h=6
 			int i=7
+			int k=8
 	}
 
 }

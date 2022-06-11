@@ -1,2 +1,2 @@
 # GeoService
-GeoService from UI
+GeoService

@@ -2,7 +2,7 @@ package com.geodetails.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//From Master UI.2
+//From Master UI.2 UI.3
 @SpringBootApplication()
 public class GeodetailsApplication {
 	public static void main(String[] args) {

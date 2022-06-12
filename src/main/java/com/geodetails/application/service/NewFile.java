@@ -7,4 +7,6 @@ public class NewFile {
 
     again in b1 update new file
 */
+
+    //Afer B3 commit , now b2
 }
